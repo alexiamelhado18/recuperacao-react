@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+:root {
+    --font1: 'Poiret One', cursive;
+    --font2: 'Roboto', sans-serif;
+    --font3: 'Quicksand', sans-serif;
+    --font4: 'Indie Flower', cursive;
+
+    --cor3: #5B3331;
+}
+
+
+
